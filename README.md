@@ -6,7 +6,7 @@ We often build models in notebooks.
 
 But the real professional leap happens when that model becomes an **integrable service**.
 
-In my project *Auto-Retention-Agents*, I used **FastAPI** to transform a churn prediction model into a production-ready API designed for backend integration.
+In my project [*Auto-Retention-Agents*](https://github.com/BarbaraAngelesOrtiz/auto-retention-agents), I used **FastAPI** to transform a churn prediction model into a production-ready API designed for backend integration.
 
 This isn’t a “Hello World” example.
 This is about designing APIs with real-world architecture in mind.
