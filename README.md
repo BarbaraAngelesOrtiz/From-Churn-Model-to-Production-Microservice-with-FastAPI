@@ -46,8 +46,11 @@ class ChurnResponse(BaseModel):
 When an endpoint returns this model:
 
 ✔ Data is validated automatically
+
 ✔ It is serialized to JSON
+
 ✔ It is documented in `/docs`
+
 ✔ Other teams know exactly what structure to expect
 
 This is critical when integrating with:
@@ -128,8 +131,11 @@ def test_churn_summary():
 Why this matters:
 
 ✔ Enables CI/CD integration
+
 ✔ Safer deployments
+
 ✔ Refactoring without fear
+
 ✔ Cloud-ready workflows
 
 In real-world environments, this is the difference between a technical demo and an enterprise-ready service.
@@ -193,8 +199,11 @@ An API built this way can be easily deployed using:
 Because it is modular and tested:
 
 ✔ It can scale horizontally
+
 ✔ It supports microservice architectures
+
 ✔ It integrates into event-driven systems
+
 ✔ It supports observability and logging
 
 This is the natural bridge between **Data Engineering and Backend Engineering**.
