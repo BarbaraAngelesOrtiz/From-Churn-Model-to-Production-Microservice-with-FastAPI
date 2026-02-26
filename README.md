@@ -28,7 +28,7 @@ And that fundamentally changes how we approach backend integration.
 
 ---
 
-# 🧾 1️⃣ Model Serialization: The Contract Between Systems
+# 🧾 1️. Model Serialization: The Contract Between Systems
 
 One of the most common mistakes in data projects is not clearly defining how data travels between systems.
 
@@ -62,7 +62,7 @@ Without clear contracts, backend integrations become fragile.
 
 ---
 
-# 🔄 2️⃣ Batch Processing: Thinking Beyond Single Requests
+# 🔄 2️. Batch Processing: Thinking Beyond Single Requests
 
 In real production environments, we rarely process just one record.
 
@@ -106,7 +106,7 @@ It becomes part of a broader data architecture.
 
 ---
 
-# 🧪 3️⃣ Automated Testing: From Experiment to Product
+# 🧪 3️. Automated Testing: From Experiment to Product
 
 A model without tests is an experiment.
 A model with tests is a product.
@@ -136,7 +136,7 @@ In real-world environments, this is the difference between a technical demo and 
 
 ---
 
-# 🔌 4️⃣ Architecture: How It Integrates with Backend Systems
+# 🔌 4️. Architecture: How It Integrates with Backend Systems
 
 Here’s the high-level architecture:
 
@@ -181,7 +181,7 @@ And it allows horizontal scaling if needed.
 
 ---
 
-# ☁️ 5️⃣ Designing with Cloud in Mind
+# ☁️ 5️. Designing with Cloud in Mind
 
 An API built this way can be easily deployed using:
 
