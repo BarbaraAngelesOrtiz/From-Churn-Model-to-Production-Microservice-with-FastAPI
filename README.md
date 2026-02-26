@@ -216,6 +216,13 @@ It’s about learning how to:
 
 That’s what transforms a churn model into a production-ready microservice.
 
+---
+## Author
+**Bárbara Ángeles Ortiz**
+
+<img src="https://github.com/user-attachments/assets/30ea0d40-a7a9-4b19-a835-c474b5cc50fb" width="115">
+
+[LinkedIn](https://www.linkedin.com/in/barbaraangelesortiz/) | [GitHub](https://github.com/BarbaraAngelesOrtiz)
 
 
 
